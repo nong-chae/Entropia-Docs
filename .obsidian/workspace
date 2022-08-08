@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "da22b53aef0dc3e3",
+        "id": "a57d738aa1c214dc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Definition/Vars.cs.md",
+            "file": "Definition/Untitled.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -31,8 +31,10 @@
             "id": "15dc9bead97e2994",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {}
+              "type": "video",
+              "state": {
+                "file": "Recording 20220808163904.webm"
+              }
             }
           },
           {
@@ -57,6 +59,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "2e6f52ca2c8e1db4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
           }
         ]
       }
@@ -78,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definition/Vars.cs.md",
+                "file": "Recording 20220808163904.webm",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definition/Vars.cs.md",
+                "file": "Recording 20220808163904.webm",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definition/Vars.cs.md"
+                "file": "Recording 20220808163904.webm"
               }
             }
           },
@@ -137,10 +147,14 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e07627d96820d65e",
+  "active": "15dc9bead97e2994",
   "lastOpenFiles": [
-    "Excalidraw/그림.md",
+    "Definition/Untitled.md",
+    "Templates/CSDocTemplate.md",
     "Definition/Vars.cs.md",
+    "2022-08-08.md",
+    "Recording 20220808163413.webm",
+    "Excalidraw/그림.md",
     "README.md",
     "무제노트.md"
   ]

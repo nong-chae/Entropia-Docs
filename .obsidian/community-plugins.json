@@ -6,5 +6,6 @@
   "obsidian-mind-map",
   "obsidian-webhooks",
   "obsidian-discordrpc",
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian"
 ]
