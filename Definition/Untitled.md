@@ -1,3 +1,0 @@
-| Access | type | name | description |
-| ----- | ---- | ---- | ----------- |
-|       |      |      |             |

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Definition/Untitled.md",
+            "file": "Templates/CSDocTemplate.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -31,10 +31,8 @@
             "id": "15dc9bead97e2994",
             "type": "leaf",
             "state": {
-              "type": "video",
-              "state": {
-                "file": "Recording 20220808163904.webm"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -43,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Field",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recording 20220808163904.webm",
+                "file": "Templates/CSDocTemplate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recording 20220808163904.webm",
+                "file": "Templates/CSDocTemplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recording 20220808163904.webm"
+                "file": "Templates/CSDocTemplate.md"
               }
             }
           },
@@ -145,17 +144,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "15dc9bead97e2994",
+  "active": "a57d738aa1c214dc",
   "lastOpenFiles": [
-    "Definition/Untitled.md",
-    "Templates/CSDocTemplate.md",
+    "Story/대륙/에라스트/대륙 컨셉.md",
+    "Story/대륙/켈리온/대륙 컨셉.md",
+    "Story/대륙/켈틴/대륙 컨셉.md",
+    "Story/대륙/피렌/대륙 컨셉.md",
+    "Story/대륙/프톤/대륙 컨셉.md",
+    "Story/이계의 균열/컨셉.md",
     "Definition/Vars.cs.md",
-    "2022-08-08.md",
-    "Recording 20220808163413.webm",
-    "Excalidraw/그림.md",
-    "README.md",
-    "무제노트.md"
+    "Templates/CSDocTemplate.md",
+    "Recording 20220808163904.webm",
+    "2022-08-08.md"
   ]
 }
