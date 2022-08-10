@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/CSDocTemplate.md",
+            "file": "Documentation/LobbyScene/README.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/CSDocTemplate.md",
+                "file": "Documentation/LobbyScene/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/CSDocTemplate.md",
+                "file": "Documentation/LobbyScene/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/CSDocTemplate.md"
+                "file": "Documentation/LobbyScene/README.md"
               }
             }
           },
@@ -149,15 +149,15 @@
   },
   "active": "a57d738aa1c214dc",
   "lastOpenFiles": [
+    "Documentation/GameScene/README.md",
+    "Documentation/LobbyScene/README.md",
+    "Documentation/AdventureScene/README.md",
+    "Documentation/README.md",
+    "Templates/CSDocTemplate.md",
     "Story/대륙/에라스트/대륙 컨셉.md",
     "Story/대륙/켈리온/대륙 컨셉.md",
     "Story/대륙/켈틴/대륙 컨셉.md",
     "Story/대륙/피렌/대륙 컨셉.md",
-    "Story/대륙/프톤/대륙 컨셉.md",
-    "Story/이계의 균열/컨셉.md",
-    "Definition/Vars.cs.md",
-    "Templates/CSDocTemplate.md",
-    "Recording 20220808163904.webm",
-    "2022-08-08.md"
+    "Story/대륙/프톤/대륙 컨셉.md"
   ]
 }
