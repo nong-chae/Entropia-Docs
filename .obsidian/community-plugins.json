@@ -14,5 +14,7 @@
   "buttons",
   "folder-note-plugin",
   "cmenu-plugin",
-  "obsidian-tabs"
+  "obsidian-tabs",
+  "obsidian-linter",
+  "drawio-obsidian"
 ]
