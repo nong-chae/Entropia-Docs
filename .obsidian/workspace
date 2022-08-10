@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a57d738aa1c214dc",
+        "id": "166711f1140c31d0",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -23,20 +23,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15dc9bead97e2994",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "aa3886701e7ad0e6",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Field",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -88,7 +80,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -99,7 +91,7 @@
               "type": "outgoing-link",
               "state": {
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -130,14 +122,17 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a57d738aa1c214dc",
+  "active": "2e6f52ca2c8e1db4",
   "lastOpenFiles": [
+    "Templates/CSDocTemplate.md",
+    "Templates/Template Linker.md",
     "Story/Story Linker.md",
     "Story/이계의 균열/이계의 균열 컨셉.md",
     "Story/대륙/켈리온/켈리온 대륙 컨셉.md",
@@ -145,8 +140,6 @@
     "[에라스트 대륙 컨셉.md",
     "Documentation/LobbyScene/README.md",
     "Story/대륙/켈틴/켈틴 대륙 컨셉.md",
-    "Story/대륙/프톤/프톤 대륙 컨셉.md",
-    "Story/대륙/피렌/피렌 대륙 컨셉.md",
-    "Documentation/README.md"
+    "Story/대륙/프톤/프톤 대륙 컨셉.md"
   ]
 }
