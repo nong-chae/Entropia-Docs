@@ -94,7 +94,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "a57d738aa1c214dc",
   "lastOpenFiles": [
-    "Documentation/LobbyScene/README.md",
-    "Story/Story Linker.md",
     "Story/이계의 균열/이계의 균열 컨셉.md",
     "Story/대륙/켈리온/켈리온 대륙 컨셉.md",
     "Story/대륙/에라스트/에라스트 대륙 컨셉.md",
+    "Story/Story Linker.md",
+    "[에라스트 대륙 컨셉.md",
+    "Documentation/LobbyScene/README.md",
     "Story/대륙/켈틴/켈틴 대륙 컨셉.md",
     "Story/대륙/프톤/프톤 대륙 컨셉.md",
     "Story/대륙/피렌/피렌 대륙 컨셉.md",
-    "Documentation/README.md",
-    "README.md"
+    "Documentation/README.md"
   ]
 }
