@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Documentation/README.md",
+            "file": "Templates/CSDocTemplate.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/README.md",
+                "file": "Templates/CSDocTemplate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentation/README.md",
+                "file": "Templates/CSDocTemplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentation/README.md"
+                "file": "Templates/CSDocTemplate.md"
               }
             }
           },
@@ -140,13 +140,13 @@
   },
   "active": "166711f1140c31d0",
   "lastOpenFiles": [
+    "Templates/Template Linker.md",
+    "Templates/CSDocTemplate.md",
     "Documentation/LobbyScene/README.md",
     "Documentation/README.md",
     "Story/Story Linker.md",
     "Story/이계의 균열/이계의 균열 컨셉.md",
-    "Templates/Template Linker.md",
     "에라스트 대륙 컨셉.md",
-    "Templates/CSDocTemplate.md",
     "Story/대륙/켈리온/켈리온 대륙 컨셉.md",
     "Story/대륙/에라스트/에라스트 대륙 컨셉.md",
     "Story/대륙/켈틴/켈틴 대륙 컨셉.md"
