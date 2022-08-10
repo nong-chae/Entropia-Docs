@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Documentation/LobbyScene/README.md",
+            "file": "Documentation/GameScene/README.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/LobbyScene/README.md",
+                "file": "Documentation/GameScene/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentation/LobbyScene/README.md",
+                "file": "Documentation/GameScene/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentation/LobbyScene/README.md"
+                "file": "Documentation/GameScene/README.md"
               }
             }
           },
@@ -149,8 +149,8 @@
   },
   "active": "a57d738aa1c214dc",
   "lastOpenFiles": [
-    "Documentation/GameScene/README.md",
     "Documentation/LobbyScene/README.md",
+    "Documentation/GameScene/README.md",
     "Documentation/AdventureScene/README.md",
     "Documentation/README.md",
     "Templates/CSDocTemplate.md",
