@@ -7,5 +7,7 @@
   "obsidian-webhooks",
   "obsidian-discordrpc",
   "obsidian-git",
-  "templater-obsidian"
+  "templater-obsidian",
+  "sliding-panes-obsidian",
+  "obsidian-admonition"
 ]
