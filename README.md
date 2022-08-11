@@ -10,4 +10,10 @@
 |        |      |      |                                               |
 
 
-<input type = "checkbox" name = "google" value = "on"> 구글 </input>
+<iframe 
+		src="https://www.google.co.kr/?gws_rd=ssl" 
+		frameborder="0"
+		allowfullscreen
+>test</iframe>
+
+
