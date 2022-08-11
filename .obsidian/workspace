@@ -7,12 +7,9 @@
         "id": "166711f1140c31d0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "README.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+            "file": "Google_files/unnamed.jpg"
           }
         }
       }
@@ -79,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Google_files/unnamed.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Google_files/unnamed.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Google_files/unnamed.jpg"
               }
             }
           },
@@ -140,15 +137,15 @@
   },
   "active": "166711f1140c31d0",
   "lastOpenFiles": [
-    "Templates/Template Linker.md",
+    "Google_files/tia.png",
+    "Google_files/Chrome_Owned_96x96.png",
+    "Google_files/googlelogo_color_272x92dp.png",
     "README.md",
+    "Templates/Template Linker.md",
     "Templates/CSDocTemplate.md",
     "2022-08-11.md",
     "Documentation/LobbyScene/README.md",
     "Documentation/README.md",
-    "Story/Story Linker.md",
-    "Story/이계의 균열/이계의 균열 컨셉.md",
-    "에라스트 대륙 컨셉.md",
-    "Story/대륙/켈리온/켈리온 대륙 컨셉.md"
+    "Story/Story Linker.md"
   ]
 }
