@@ -12,7 +12,7 @@
 |        |      |      |     |
 
 <iframe
-  src="obsidian://open?vault=Obsidian&file=README"
+  src="obsidian://open?vault=Obsidian&file=Google.html"
   frameborder="0"
   allowfullscreen
   width="100%"
