@@ -9,3 +9,10 @@
 | ------ | ---- | ---- | --------------------------------------------- |
 |        |      |      |                                               |
 
+
+<select name = "Appia">
+          <option value = "Python" selected>파이썬</option>
+          <option value = "MATLAB">매트랩</option>
+          <option value = "HTML">HTML</option>
+</select>
+       
