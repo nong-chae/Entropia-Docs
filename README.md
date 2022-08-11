@@ -14,6 +14,8 @@
 		src="https://www.google.co.kr/?gws_rd=ssl" 
 		frameborder="0"
 		allowfullscreen
+		width="100%"
+		height="500"
 >test</iframe>
 
 
