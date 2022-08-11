@@ -12,9 +12,17 @@
 |        |      |      |     |
 
 <iframe
-  src="obsidian://open?vault=Obsidian&file=Google.html"
+  src="obsidian://delete?vault=Obsidian&file=Google.html"
   frameborder="0"
   allowfullscreen
   width="100%"
   height="500"
 >test</iframe>
+---
+title: test
+tags:
+	- tagA
+	- tagB
+category: cat
+
+---
