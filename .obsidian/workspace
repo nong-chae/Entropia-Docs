@@ -7,9 +7,12 @@
         "id": "166711f1140c31d0",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Google_files/unnamed.jpg"
+            "file": "Documentation/Elemental System/About Elemental.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -76,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google_files/unnamed.jpg",
+                "file": "Documentation/Elemental System/About Elemental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google_files/unnamed.jpg",
+                "file": "Documentation/Elemental System/About Elemental.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google_files/unnamed.jpg"
+                "file": "Documentation/Elemental System/About Elemental.md"
               }
             }
           },
@@ -137,15 +140,15 @@
   },
   "active": "166711f1140c31d0",
   "lastOpenFiles": [
+    "README.md",
+    "Google_files/unnamed.jpg",
     "Google_files/tia.png",
     "Google_files/Chrome_Owned_96x96.png",
     "Google_files/googlelogo_color_272x92dp.png",
-    "README.md",
     "Templates/Template Linker.md",
     "Templates/CSDocTemplate.md",
     "2022-08-11.md",
     "Documentation/LobbyScene/README.md",
-    "Documentation/README.md",
-    "Story/Story Linker.md"
+    "Documentation/README.md"
   ]
 }
