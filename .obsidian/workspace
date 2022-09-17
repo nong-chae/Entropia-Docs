@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Story/종족/미리내.md",
+            "file": "Story/종족과 집단/미리내.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/종족/미리내.md",
+                "file": "Story/종족과 집단/미리내.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/종족/미리내.md",
+                "file": "Story/종족과 집단/미리내.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/종족/미리내.md"
+                "file": "Story/종족과 집단/미리내.md"
               }
             }
           },
@@ -138,9 +138,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "166711f1140c31d0",
+  "active": "2e6f52ca2c8e1db4",
   "lastOpenFiles": [
-    "Story/종족/회귀종.md",
+    "Story/종족과 집단/회귀종.md",
     "Documentation/Elemental System/About Elemental.md",
     "README.md",
     "Google_files/unnamed.jpg",
